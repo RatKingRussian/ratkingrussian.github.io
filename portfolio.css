@@ -54,6 +54,7 @@ img {
 }
 header {
     font-weight: bold;
+    position: fixed;
 }
 section {
     padding: 10vh;
